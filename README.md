@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**danomov/danomov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Glad to see you there. I'm a software engineer based in Yerevan, AM specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. 
 
-Here are some ideas to get you started:
+**Little roadmap:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on learning new stuff.
+- 🌱 I’m currently learning everything new, intersting and trendy.
+- 💬 Ask me about everything, but after Googling it. 
+- 📫 How to reach me: [@danomov](https://linkedin.com/in/danomov) or email me.
+- ⚡ Fun fact: if something looks easy, it’s hard; if it looks hard, it’s almost impossible.
+
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danomov&show_icons=true&theme=gotham)](https://github.com/danomov/github-readme-stats)
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danomov&layout=compact&theme=gotham)](https://github.com/danomov/github-readme-stats)
